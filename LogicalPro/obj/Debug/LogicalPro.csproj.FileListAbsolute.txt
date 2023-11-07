@@ -1,0 +1,7 @@
+E:\CSharp\LogicalPro\LogicalPro\bin\Debug\LogicalPro.exe.config
+E:\CSharp\LogicalPro\LogicalPro\bin\Debug\LogicalPro.exe
+E:\CSharp\LogicalPro\LogicalPro\bin\Debug\LogicalPro.pdb
+E:\CSharp\LogicalPro\LogicalPro\obj\Debug\LogicalPro.csproj.AssemblyReference.cache
+E:\CSharp\LogicalPro\LogicalPro\obj\Debug\LogicalPro.csproj.CoreCompileInputs.cache
+E:\CSharp\LogicalPro\LogicalPro\obj\Debug\LogicalPro.exe
+E:\CSharp\LogicalPro\LogicalPro\obj\Debug\LogicalPro.pdb
